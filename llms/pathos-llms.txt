@@ -1,0 +1,73 @@
+# www.pathos.com
+
+Pathos integrates AI technology, biological modeling, and the largest collection of oncology patient data to make clinical trials smarter and more precise.
+
+## Pages
+
+
+- [Pipeline](https://www.pathos.com/pipeline): By combining multimodal patient data, AI-guided trial design, and clinical execution, we’re advancing a pipeline built on precision.
+
+- [Platform](https://www.pathos.com/platform): The PathOS™ platform integrates advanced AI technology, biological modeling, and the largest collection of oncology patient data to transform data into insight.
+
+- [Our Platform - Old](https://www.pathos.com/platform-old): The PathOS™ platform integrates advanced AI technology, biological modeling, and the largest collection of oncology patient data to transform data into insight.
+
+- [News &amp; Insights – Leadership](https://www.pathos.com/news/leadership): Stay up to date on how Pathos Leadership is transforming oncology drug development.
+
+- [Patients](https://www.pathos.com/patients): Behind every data point is a person. At Pathos, our mission begins and ends with patients.
+
+- [News &amp; Insights – Collaboration](https://www.pathos.com/news/collaboration): Stay up to date on how Pathos' collaborations are transforming oncology drug development.
+
+- [Partners](https://www.pathos.com/partners): Pathos collaborates with leading pharmaceutical and biotech organizations to accelerate the development of oncology therapies.
+
+- [News &amp; Insights – Clinical Updates](https://www.pathos.com/news/clinical_updates): Stay up to date on how Pathos' clinical updates are transforming oncology drug development.
+
+- [Careers](https://www.pathos.com/careers): We're passionate about bringing better, more effective treatments to patients.
+
+- [Contact Us](https://www.pathos.com/contact-us): Have a question or opportunity? Connect with us to join our mission to build the future of biopharma.
+
+- [News &amp; Insights – Funding](https://www.pathos.com/news/funding): Stay up to date on how Pathos is transforming oncology drug development.
+
+- [News](https://www.pathos.com/news): Stay up to date on how Pathos AI is transforming oncology drug development.
+
+- [Home - Old](https://www.pathos.com/home-old): Pathos integrates AI technology, biological modeling, and the largest collection of oncology patient data to make clinical trials smarter and more precise.
+
+- [Home](https://www.pathos.com/): Pathos integrates AI technology, biological modeling, and the largest collection of oncology patient data to make clinical trials smarter and more precise.
+
+- [About Us](https://www.pathos.com/about-us): Pathos is pioneering the next generation of biopharma — redefining how drugs will be developed for years to come.
+
+- [Partner With Us](https://www.pathos.com/partner_with_us): Ready to accelerate drug development together?  Partner with Pathos to bring the next generation of biopharma to life.
+
+- [Privacy Policy](https://www.pathos.com/privacy-policy): Pathos is committed to protecting your privacy and is constantly working to give you a safe online experience. 
+
+
+## Blog Posts
+
+
+- [Pathos AI Enters Global Licensing Agreement with Alphamab Oncology on JSKN016, a First-in-Class TROP2/HER3 Bispecific ADC](https://www.pathos.com/pathos-ai-enters-global-licensing-agreement-with-alphamab-oncology-on-jskn016-a-first-in-class-trop2-her3-bispecific-adc)
+
+- [Pathos AI Enters Collaboration and Co-Exclusive Licensing Agreement to Advance Novel ERα PROTAC for ER+ Breast Cancer into the Clinic](https://www.pathos.com/pathos-ai-enters-collaboration-and-co-exclusive-licensing-agreement-to-advance-novel-er-protac-for-er-breast-cancer-into-the-clinic)
+
+- [Pathos AI Acquires Majority Stake in DeuterOncology to Advance Next-Generation MET Inhibitor Identified by Pathos Foundry Platform](https://www.pathos.com/pathos-ai-acquires-majority-stake-in-deuteroncology-to-advance-next-generation-met-inhibitor-identified-by-pathos-foundry-platform)
+
+- [Re-engineering Drug Development for Precision Medicine](https://www.pathos.com/re-engineering-drug-development-for-precision-medicine)
+
+- [Pathos Launches Precision Oncology Pipeline With License of First Phase I Program, a CBP/p300 Inhibitor](https://www.pathos.com/pathos-launches-precision-oncology-pipeline-with-license-of-first-phase-i-program-a-cbp-p300-inhibitor)
+
+- [Pathos AI Completes Acquisition of Rain Oncology](https://www.pathos.com/pathos-ai-completes-acquisition-of-rain-oncology)
+
+- [Pathos Expands Pipeline With Worldwide License of Phase 2-ready Program, a Brain-penetrant, PRMT5 Inhibitor](https://www.pathos.com/pathos-expands-pipeline-with-worldwide-license-of-phase-2-ready-program-a-brain-penetrant-prmt5-inhibitor)
+
+- [Pathos AI Closes $62M Oversubscribed Series C Round of Financing to Accelerate its Platform Approach to Drug Development](https://www.pathos.com/pathos-ai-closes-62m-oversubscribed-series-c-round-of-financing-to-accelerate-its-platform-approach-to-drug-development)
+
+- [Pathos AI Doses First Patient in Phase 1b/2a Clinical Trial of Pocenbrodib, a CBP/p300 Inhibitor](https://www.pathos.com/pathos-ai-doses-first-patient-in-phase-1b-2a-clinical-trial-of-pocenbrodib-a-cbp-p300-inhibitor)
+
+- [Pathos Signs Strategic Agreements with AstraZeneca and Tempus to Develop the Largest Multimodal Foundation Model in Oncology](https://www.pathos.com/pathos-signs-strategic-agreements-with-astrazeneca-and-tempus-to-develop-the-largest-multimodal-foundation-model-in-oncology)
+
+- [Pathos AI Appoints Iker Huerga as Chief Executive Officer to Lead the Next Era of AI-Enabled Drug Development](https://www.pathos.com/pathos-ai-appoints-iker-huerga-as-chief-executive-officer-to-lead-the-next-era-of-ai-enabled-drug-development)
+
+- [Pathos AI Secures $365 Million in Series D Financing to Advance Oncology Drug Development Through AI](https://www.pathos.com/pathos-ai-secures-365-million-in-series-d-financing-to-advance-oncology-drug-development-through-ai)
+
+
+
+
+

@@ -1,17 +1,36 @@
 aid: pathos
 name: Pathos
-description: 'Pathos is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Pathos (Pathos AI, Inc.) is an AI-enabled, clinical-stage biotechnology
+  company founded in 2022 by Eric Lefkofsky and Ryan Fukushima that applies artificial
+  intelligence and large-scale multimodal patient data to oncology drug development.
+  Its PathOS platform is organized around three engines — Scout (AI asset selection
+  that matches an investigational therapy to the patient subgroup most likely to respond),
+  Sprint (small autonomous clinical-execution pods that design and run biomarker-driven
+  trials), and Foundry (the oncology foundation model built in partnership with Tempus
+  and AstraZeneca) — trained against a stated corpus of more than 200 petabytes of
+  multimodal clinical, molecular and imaging data linked to patient outcomes. The company
+  raised a $365M Series D in May 2025 at roughly a $1.6B valuation, completed the acquisition
+  of Rain Oncology, and is advancing a precision-oncology pipeline that includes a
+  CBP/p300 inhibitor and a brain-penetrant PRMT5 inhibitor. Pathos sells partnership
+  and co-development to pharma and biotech; it publishes no public developer program,
+  API, SDK or machine-readable specification.'
 url: https://raw.githubusercontent.com/api-evangelist/pathos/refs/heads/main/apis.yml
+image: https://lirp.cdn-website.com/8e545b68/dms3rep/multi/opt/pathos-open_graph-97b7336f-1920w.jpg
 x-type: company
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
 specificationVersion: '0.20'
 created: '2026-08-04'
 modified: '2026-08-04'
 tags:
 - Company
+- Artificial Intelligence
+- Healthcare
+- Biotechnology
+- Oncology
+- Drug Development
+- Clinical Trials
+- Precision Medicine
+- Life Sciences
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -20,4 +39,42 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://forgeglobal.com/pathos_stock/
+  url: https://www.pathos.com/
+- type: Blog
+  url: https://www.pathos.com/news
+- type: Support
+  url: https://www.pathos.com/contact-us
+- type: PrivacyPolicy
+  url: https://www.pathos.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/pathos-inc
+- type: LLMsTxt
+  url: llms/pathos-llms.txt
+- type: ContentSignal
+  url: well-known/pathos-content-signal.yml
+- type: DomainSecurity
+  url: security/pathos-domain-security.yml
+x-enrichment:
+  date: '2026-08-04'
+  status: minimal
+  artifacts_added: 5
+  pass: local-v1
+x-coverage:
+  state: none
+  reason: no-developer-program
+  detail: >-
+    Pathos AI is a clinical-stage oncology biotech whose PathOS platform is run by
+    its own Sprint pods and licensed through pharma partnership deals, not exposed
+    to third parties — the entire nine-page site (platform, pipeline, partners,
+    partner-with-us) offers a contact form and no developer surface at all, and
+    api./developer./docs.pathos.com do not resolve.
+  evidence:
+  - url: https://www.pathos.com/developers
+    status: 404
+  - url: https://www.pathos.com/openapi.json
+    status: 404
+  - url: https://www.pathos.com/.well-known/agent-card.json
+    status: 404
+  - url: https://www.pathos.com/llms.txt
+    status: 200
+  checked: '2026-08-04'

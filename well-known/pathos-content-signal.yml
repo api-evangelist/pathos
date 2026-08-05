@@ -1,0 +1,24 @@
+generated: '2026-08-04'
+method: probed
+source: https://www.pathos.com/robots.txt
+# Real AIPREF-style Content-Signal directive served in www.pathos.com/robots.txt.
+# Captures the site's machine-readable consent posture for search, AI input
+# (retrieval / grounding at answer time), and AI training. Pathos permits all
+# three — an unusually open posture for a clinical-stage biotech. Saved verbatim
+# alongside this index as pathos-robots.txt.
+type: ContentSignal
+host: https://www.pathos.com
+raw_file: pathos-robots.txt
+content_signals:
+- user_agent: '*'
+  signal: search=yes, ai-input=yes, ai-train=yes
+  search: yes
+  ai_input: yes
+  ai_train: yes
+disallowed_agents: []
+sitemap: https://www.pathos.com/sitemap.xml
+x-evidence:
+  fetched: '2026-08-04'
+  url: https://www.pathos.com/robots.txt
+  http_status: 200
+  content_type: text/plain

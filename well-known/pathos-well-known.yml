@@ -1,0 +1,27 @@
+generated: '2026-08-04'
+method: probed
+source: live probes of the Pathos web host
+note: >-
+  Probed the standard /.well-known/ discovery surface on the only host Pathos
+  operates publicly (www.pathos.com). Every path returned a real 404 from the
+  Duda-hosted site — not an SPA 200 shell — so these are honest negative results.
+  No WellKnown or SecurityTxt pointer is emitted because nothing was found. The
+  one machine-readable consent signal Pathos does publish lives in robots.txt and
+  is captured separately in pathos-content-signal.yml. The api./developer./docs./
+  status. subdomains do not resolve (curl exit 6, DNS failure), so there is no
+  second host to probe.
+hosts:
+- host: https://www.pathos.com
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+  - {path: /.well-known/openid-configuration, status: 404}
+  - {path: /.well-known/oauth-authorization-server, status: 404}
+  - {path: /.well-known/api-catalog, status: 404}
+  - {path: /.well-known/ai-plugin.json, status: 404}
+  - {path: /.well-known/agent-card.json, status: 404}
+  - {path: /.well-known/agent.json, status: 404}
+non_resolving_hosts:
+- api.pathos.com
+- developer.pathos.com
+- docs.pathos.com
+- status.pathos.com
