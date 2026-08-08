@@ -1,0 +1,14 @@
+{
+  "repo": "pathos",
+  "feeds": [
+    {
+      "source": "https://www.pathos.com/",
+      "feed_url": "https://www.pathos.com/feed/rss2",
+      "title": "",
+      "saved": 2,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-08-06T14:08:46Z"
+}
