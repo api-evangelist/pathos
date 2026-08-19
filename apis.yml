@@ -18,7 +18,7 @@ url: https://raw.githubusercontent.com/api-evangelist/pathos/refs/heads/main/api
 image: https://lirp.cdn-website.com/8e545b68/dms3rep/multi/opt/pathos-open_graph-97b7336f-1920w.jpg
 x-type: company
 x-source: harvest:secondary-market
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-08-04'
 modified: '2026-08-04'
 tags:
