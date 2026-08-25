@@ -2,13 +2,20 @@
   "repo": "pathos",
   "feeds": [
     {
+      "source": "https://www.pathos.com/feed/rss2",
+      "feed_url": "https://www.pathos.com/feed/rss2",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.pathos.com/",
       "feed_url": "https://www.pathos.com/feed/rss2",
       "title": "",
-      "saved": 10,
+      "saved": 0,
       "method": "discovered"
     }
   ],
   "post_count": 12,
-  "fetched": "2026-08-15T12:11:08Z"
+  "fetched": "2026-08-22T20:20:02Z"
 }
