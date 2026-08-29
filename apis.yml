@@ -15,6 +15,17 @@ description: 'Pathos (Pathos AI, Inc.) is an AI-enabled, clinical-stage biotechn
   and co-development to pharma and biotech; it publishes no public developer program,
   API, SDK or machine-readable specification.'
 url: https://raw.githubusercontent.com/api-evangelist/pathos/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://lirp.cdn-website.com/8e545b68/dms3rep/multi/opt/pathos-open_graph-97b7336f-1920w.jpg
 x-type: company
 x-source: harvest:secondary-market
